@@ -1,0 +1,10 @@
+Warning[207] D:\MIKROISLEMCILER\2018GUZDONEMI\51.UYGULAMA\UYGULAMA-51.ASM 3 : Found label after column 1. (SAYICI1)
+Warning[207] D:\MIKROISLEMCILER\2018GUZDONEMI\51.UYGULAMA\UYGULAMA-51.ASM 4 : Found label after column 1. (SAYICI2)
+Message[302] D:\MIKROISLEMCILER\2018GUZDONEMI\51.UYGULAMA\UYGULAMA-51.ASM 20 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] D:\MIKROISLEMCILER\2018GUZDONEMI\51.UYGULAMA\UYGULAMA-51.ASM 41 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] D:\MIKROISLEMCILER\2018GUZDONEMI\51.UYGULAMA\UYGULAMA-51.ASM 42 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] D:\MIKROISLEMCILER\2018GUZDONEMI\51.UYGULAMA\UYGULAMA-51.ASM 44 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] D:\MIKROISLEMCILER\2018GUZDONEMI\51.UYGULAMA\UYGULAMA-51.ASM 45 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] D:\MIKROISLEMCILER\2018GUZDONEMI\51.UYGULAMA\UYGULAMA-51.ASM 48 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] D:\MIKROISLEMCILER\2018GUZDONEMI\51.UYGULAMA\UYGULAMA-51.ASM 69 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Warning[205] D:\MIKROISLEMCILER\2018GUZDONEMI\51.UYGULAMA\UYGULAMA-51.ASM 112 : Found directive in column 1. (END)
